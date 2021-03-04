@@ -4,7 +4,6 @@ Projekt strony
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Projekt: Strona internetowa</title>
   </head>
   <body>
     <h1>(tutaj powinna być twoja ulubiona strona internetowa)</h1>
