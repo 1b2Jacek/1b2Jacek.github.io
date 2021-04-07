@@ -1,0 +1,347 @@
+body{
+	margin: 0; 
+}
+#background{
+	margin-left: auto;
+	margin-right: auto;
+	min-width: 1200px;
+	min-height: 100vh;
+	background-image: url(tlo.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+#header{
+	background-color: rgb(38, 38, 38);
+	height: 80px;
+	width:100%;
+	padding: 20px 0;
+}
+#logo{
+	height: 60px;
+	padding: 10px 0;
+	font-size: 50px;
+	margin: auto;
+	width: 320px;
+	letter-spacing: 3px;
+	color: white;
+	text-align: center;
+	font-family: Georgia;
+}
+#footer{
+	border-top: 5px solid black;
+	clear: both;
+	background-color: rgb(38, 38, 38);
+	color: white;
+	text-align: center;
+	padding: 20px;
+	font-family: Georgia;
+}
+#menu{
+	font-family: Helvetica;
+	background-color: gray;
+	border-bottom: 5px solid black;
+	text-align: center;
+	padding: 10px;
+}
+#menuC{
+	width: 544px;
+	margin: auto;
+}
+.menu{
+	float: left;
+	padding: 10px;
+	font-size: 20px;
+	height: 25px;
+	width: 160px;
+	border-right: 1px dotted black;
+}
+.menu:hover{
+	color: rgb(255, 153, 51);
+	background-color: rgb(102, 102, 102);
+	cursor: pointer;
+}
+.menu_link:link{
+	color: white;
+}
+.menu_link:visited{
+	color:white;
+}
+.pare_przykladow{
+	font-size: 30px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 50px 0;
+}
+#naglowek{
+	padding: 50px 0;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 50px;
+}
+#container{
+	width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+} 
+.zdjecia{
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	width: 450px;
+	height: 200px;
+	border: 3px solid black;
+}
+.zdjecia img{
+	height: 100%;
+	width: 100%;
+}
+.tekst{
+	font-size: 18px;
+	text-align: justify;
+	padding: 40px 30px;
+	border-bottom: 3px dotted black;
+}
+#opis{
+	text-align: justify;
+	padding: 0 30px;
+	font-size: 19px;
+}
+#przewin{
+	text-decoration: none;
+}
+#przewin:link{
+	color:white;
+}
+#przewin:hover{
+	color:white;
+	cursor: pointer;
+}
+#przewin:visited{
+	color:white;
+}
+
+/*podstrony*/
+
+/*RTS*/
+
+
+#content_RTS{
+	font-family: Arial;
+	background-color: white;
+	float: left;
+	padding: 20px;
+	height: 3800px;
+	width: 740px;
+	min-height: 900px;
+}
+.nav_RTS{
+	float: left;
+	font-family: Helvetica;
+	background-color: gray;
+	width: 160px;
+	height: 3800px;
+	padding: 20px;
+	border-right: 5px solid black; 
+	border-left: 5px solid black; 
+}
+
+/*Strategic*/
+
+#content_Strategic{
+	font-family: Arial;
+	background-color: white;
+	float: left;
+	padding: 20px;
+	height: 3000px;
+	width: 740px;
+	min-height: 900px;
+}
+.nav_Strategic{
+	float: left;
+	font-family: Helvetica;
+	background-color: gray;
+	width: 160px;
+	height: 3000px;
+	padding: 20px;
+	border-right: 5px solid black; 
+	border-left: 5px solid black; 
+}
+
+/*FPS*/
+
+#content_FPS{
+	font-family: Arial;
+	background-color: white;
+	float: left;
+	padding: 20px;
+	height: 2800px;
+	width: 740px;
+	min-height: 900px;
+}
+.nav_FPS{
+	float: left;
+	font-family: Helvetica;
+	background-color: gray;
+	width: 160px;
+	height: 2800px;
+	padding: 20px;
+	border-right: 5px solid black; 
+	border-left: 5px solid black; 
+}
+
+/*RPG*/
+
+#content_RPG{
+	font-family: Arial;
+	background-color: white;
+	float: left;
+	padding: 20px;
+	height: 3000px;
+	width: 740px;
+	min-height: 900px;
+}
+.nav_RPG{
+	float: left;
+	font-family: Helvetica;
+	background-color: gray;
+	width: 160px;
+	height: 3000px;
+	padding: 20px;
+	border-right: 5px solid black; 
+	border-left: 5px solid black; 
+}
+
+/*Survival*/
+
+#content_Survival{
+	font-family: Arial;
+	background-color: white;
+	float: left;
+	padding: 20px;
+	height: 2900px;
+	width: 740px;
+	min-height: 900px;
+}
+.nav_Survival{
+	float: left;
+	font-family: Helvetica;
+	background-color: gray;
+	width: 160px;
+	height: 2900px;
+	padding: 20px;
+	border-right: 5px solid black; 
+	border-left: 5px solid black; 
+}
+
+/*Sports*/
+
+#content_Sports{
+	font-family: Arial;
+	background-color: white;
+	float: left;
+	padding: 20px;
+	height: 2800px;
+	width: 740px;
+	min-height: 900px;
+}
+.nav_Sports{
+	float: left;
+	font-family: Helvetica;
+	background-color: gray;
+	width: 160px;
+	height: 2800px;
+	padding: 20px;
+	border-right: 5px solid black; 
+	border-left: 5px solid black; 
+}
+
+/*Action_games*/
+
+#content_Action_games{
+	font-family: Arial;
+	background-color: white;
+	float: left;
+	padding: 20px;
+	height: 3700px;
+	width: 740px;
+	min-height: 900px;
+}
+.nav_Action_games{
+	float: left;
+	font-family: Helvetica;
+	background-color: gray;
+	width: 160px;
+	height: 3700px;
+	padding: 20px;
+	border-right: 5px solid black; 
+	border-left: 5px solid black; 
+}
+
+/*Simulations*/
+
+#content_Simulations{
+	font-family: Arial;
+	background-color: white;
+	float: left;
+	padding: 20px;
+	height: 3700px;
+	width: 740px;
+	min-height: 900px;
+}
+.nav_Simulations{
+	float: left;
+	font-family: Helvetica;
+	background-color: gray;
+	width: 160px;
+	height: 3700px;
+	padding: 20px;
+	border-right: 5px solid black; 
+	border-left: 5px solid black; 
+}
+
+/*Horror_games*/
+
+#content_Horror_games{
+	font-family: Arial;
+	background-color: white;
+	float: left;
+	padding: 20px;
+	height: 3700px;
+	width: 740px;
+	min-height: 900px;
+}
+.nav_Horror_games{
+	float: left;
+	font-family: Helvetica;
+	background-color: gray;
+	width: 160px;
+	height: 3700px;
+	padding: 20px;
+	border-right: 5px solid black; 
+	border-left: 5px solid black; 
+}
+
+/*Card_games*/
+
+#content_Card_games{
+	font-family: Arial;
+	background-color: white;
+	float: left;
+	padding: 20px;
+	height: 3700px;
+	width: 740px;
+	min-height: 900px;
+}
+.nav_Card_games{
+	float: left;
+	font-family: Helvetica;
+	background-color: gray;
+	width: 160px;
+	height: 3700px;
+	padding: 20px;
+	border-right: 5px solid black; 
+	border-left: 5px solid black; 
+}

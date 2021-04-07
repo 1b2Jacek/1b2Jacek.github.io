@@ -1,0 +1,146 @@
+body{
+	margin: 0; 
+}
+li{
+	line-height: 2em;
+}
+#background{
+	margin-left: auto;
+	margin-right: auto;
+	min-width: 1200px;
+	min-height: 100vh;
+	background-image: url(tlo.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+#container{
+	width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+} 
+#header{
+	background-color: rgb(38, 38, 38);
+	height: 80px;
+	width:100%;
+	padding: 20px 0;
+}
+#logo{
+	height: 60px;
+	padding: 10px 0;
+	font-size: 50px;
+	margin: auto;
+	width: 320px;
+	letter-spacing: 3px;
+	color: white;
+	text-align: center;
+	font-family: Georgia;
+}
+#menu{
+	font-family: Helvetica;
+	background-color: gray;
+	border-bottom: 5px solid black;
+	text-align: center;
+	padding: 10px;
+}
+#nav{
+	float: left;
+	font-family: Helvetica;
+	background-color: gray;
+	width: 160px;
+	min-height: 900px;
+	padding: 20px;
+	border-right: 5px solid black; 
+	border-left: 5px solid black; 
+}
+#gatunki_gier{
+	margin-top: 20px;
+	color: white;
+	text-align: center;
+	font-size: 23px;
+}
+#lista{
+	font-size: 18px;
+}
+#content{
+	font-family: Arial;
+	background-color: white;
+	float: left;
+	padding: 20px;
+	width: 740px;
+	min-height: 900px;
+}
+#witaj{
+	text-align: center;
+	padding: 5px;
+	font-size: 45px;
+}
+#what_is{
+	font-size: 30px;
+	text-align: center;
+	padding: 5px;
+}
+#image{
+	float: left;
+	width: 160px;
+	height: 900px;
+	padding: 20px;
+	background-color: gray;
+	border-right: 5px solid black; 
+	border-left: 5px solid black; 
+}
+#footer{
+	border-top: 5px solid black;
+	clear: both;
+	background-color: rgb(38, 38, 38);
+	color: white;
+	text-align: center;
+	padding: 20px;
+	font-family: Georgia;
+}
+#tekst_glowny{
+	padding: 40px 30px;
+	font-size: 20px;
+	text-align: justify;
+}
+#menuC{
+	width: 544px;
+	margin: auto;
+}
+.lista{
+	border-bottom: 1px dotted black;
+}
+.lista:hover{
+	color: rgb(255, 153, 51);
+	background-color: rgb(102, 102, 102);
+	cursor: pointer;
+}
+.lista_link{
+	color: white;
+	text-decoration: none;
+}
+.lista_link:link{
+	color: white;
+}
+.lista_link:visited{
+	color: white;
+}
+.menu{
+	float: left;
+	padding: 10px;
+	font-size: 20px;
+	height: 25px;
+	width: 160px;
+	border-right: 1px dotted black;
+}
+.menu:hover{
+	color: rgb(255, 153, 51);
+	background-color: rgb(102, 102, 102);
+	cursor: pointer;
+}
+.menu_link:link{
+	color: white;
+}
+.menu_link:visited{
+	color:white;
+}
