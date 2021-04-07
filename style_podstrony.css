@@ -287,7 +287,7 @@ body{
 	background-color: white;
 	float: left;
 	padding: 20px;
-	height: 3700px;
+	height: 3400px;
 	width: 740px;
 	min-height: 900px;
 }
@@ -296,7 +296,7 @@ body{
 	font-family: Helvetica;
 	background-color: gray;
 	width: 160px;
-	height: 3700px;
+	height: 3400px;
 	padding: 20px;
 	border-right: 5px solid black; 
 	border-left: 5px solid black; 
@@ -309,7 +309,7 @@ body{
 	background-color: white;
 	float: left;
 	padding: 20px;
-	height: 3700px;
+	height: 3000px;
 	width: 740px;
 	min-height: 900px;
 }
@@ -318,7 +318,7 @@ body{
 	font-family: Helvetica;
 	background-color: gray;
 	width: 160px;
-	height: 3700px;
+	height: 3000px;
 	padding: 20px;
 	border-right: 5px solid black; 
 	border-left: 5px solid black; 
@@ -331,7 +331,7 @@ body{
 	background-color: white;
 	float: left;
 	padding: 20px;
-	height: 3700px;
+	height: 2400px;
 	width: 740px;
 	min-height: 900px;
 }
@@ -340,7 +340,7 @@ body{
 	font-family: Helvetica;
 	background-color: gray;
 	width: 160px;
-	height: 3700px;
+	height: 2400px;
 	padding: 20px;
 	border-right: 5px solid black; 
 	border-left: 5px solid black; 
